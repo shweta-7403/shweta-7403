@@ -1,4 +1,4 @@
-<img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/16052453/img_hero_landing_roseta-min.gif" alt="coding" widht="100">
+<img src="https://i0.wp.com/raygun.com/blog/images/best-devops-tools/feature-23.jpg?ssl=1" alt="coding" widht="20">
 <h1 align="center">Shweta Dawande</h1>
 
 <p align="center">
