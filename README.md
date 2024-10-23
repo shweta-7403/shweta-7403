@@ -1,4 +1,4 @@
-<img src="https://i0.wp.com/raygun.com/blog/images/best-devops-tools/feature-23.jpg?ssl=1" alt="coding" widht="20">
+<img src="https://i0.wp.com/raygun.com/blog/images/best-devops-tools/feature-23.jpg?ssl=1" alt="coding" widht="10">
 <h1 align="center">Shweta Dawande</h1>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ---
 ## 🌟 About Me
-<img align="right" src="https://stepstodevops.com/assets/img/courses/devat.gif" alt="coding" width="150">
+<img align="right" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/16052453/img_hero_landing_roseta-min.gif" alt="coding" width="200">
 
 - 🌱 I’m currently learning **advanced DevOps tools like Ansible, Terraform, and Kubernetes**.
 - 🏅 I’m an **RHCSA certified** professional with expertise in Linux, shell scripting, and automation tools.
