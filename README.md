@@ -1,4 +1,4 @@
-<img src="https://i0.wp.com/raygun.com/blog/images/best-devops-tools/feature-23.jpg?ssl=1" alt="coding" widht="10">
+<img src="https://i0.wp.com/raygun.com/blog/images/best-devops-tools/feature-23.jpg?ssl=1" alt="coding" widht="5">
 <h1 align="center">Shweta Dawande</h1>
 
 <p align="center">
