@@ -2,7 +2,7 @@
 <h1 align="center">Shweta Dawande</h1>
 
 <p align="center">
-  <em>DevOps Engineer | RHCSA Certified | DevOps Tools Enthusiast</em>
+  <em>DevOps Engineer | RHCSA Certified | DO188 Certified | DevOps Tools Enthusiast</em>
 </p>
 
 ---
@@ -64,6 +64,7 @@
 ## 🎓 Certifications
 
 - **Red Hat Certified System Administrator (RHCSA)** – Aug 2024
+- **Red Hat Certified Specialist in Containers (DO188)** – Nov 2024
 - **Certified Kubernetes Administrator** – *In Progress*
 
 ---
