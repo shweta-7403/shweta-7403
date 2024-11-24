@@ -25,7 +25,7 @@
 <img align="right" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/16052453/img_hero_landing_roseta-min.gif" alt="coding" width="200">
 
 - 🌱 I’m currently learning **advanced DevOps tools like Ansible, Terraform, and Kubernetes**.
-- 🏅 I’m an **RHCSA certified** professional with expertise in Linux, shell scripting, and automation tools.
+- 🏅 I’m an **RHCSA certified** and **Redhat Certified Specialist in Containers** professional with expertise in Linux, shell scripting, and automation tools.
 - 💼 Open to **DevOps**, **Cloud**, and **Automation** projects.
 - ☕ Coffee lover and passionate about continuous learning and improvement.
 - 📍 Based in **Mandideep, Bhopal (M.P.)**.
