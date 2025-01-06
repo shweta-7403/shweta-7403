@@ -18,8 +18,11 @@
   <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="90" height="90"/> </a> 
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="90" height="90"/> </a> 
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="90" height="90"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="90" height="90"/> </a> </p>
-
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="90" height="90"/> </a> 
+ <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+    <img src="https://parallelstaff.com/wp-content/smush-webp/2023/12/terraform-1-1536x958.png.webp" alt="Terraform" width="200" height="150"/>
+  </a>
+</p>
 ---
 ## 🌟 About Me
 <img align="right" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/16052453/img_hero_landing_roseta-min.gif" alt="coding" width="200">
@@ -38,7 +41,7 @@
 ### DevOps & Cloud Tools
 - **CI/CD**: Jenkins, GitHub Actions
 - **Containerization**: Docker, Kubernetes (Minikube, AWS EKS)
-- **Automation**: Ansible
+- **Automation**: Ansible,Terraform
 - **Cloud Platforms**: AWS (EC2, S3, IAM)
 - **Monitoring**: Grafana, Prometheus
 - **Scripting**: Bash, Shell Scripting, Python basics
