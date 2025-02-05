@@ -2,7 +2,7 @@
 <h1 align="center">Shweta Dawande</h1>
 
 <p align="center">
-  <em>DevOps Engineer | RHCSA Certified | DO188 Certified | DevOps Tools Enthusiast</em>
+  <em>DevOps Engineer | RHCSA Certified | RHCE Certified | DO188 Certified | DevOps Tools Enthusiast</em>
 </p>
 
 ---
@@ -28,7 +28,7 @@
 <img align="right" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/16052453/img_hero_landing_roseta-min.gif" alt="coding" width="200">
 
 - 🌱 I’m currently learning **advanced DevOps tools like Ansible, Terraform, and Kubernetes**.
-- 🏅 I’m an **RHCSA certified** and **Redhat Certified Specialist in Containers** professional with expertise in Linux, shell scripting, and automation tools.
+🏅 I’m an RHCSA-certified, RHCE-certified, and Redhat Certified Specialist in Containers with expertise in Linux, shell scripting, and automation tools.
 - 💼 Open to **DevOps**, **Cloud**, and **Automation** projects.
 - ☕ Coffee lover and passionate about continuous learning and improvement.
 - 📍 Based in **Mandideep, Bhopal (M.P.)**.
@@ -41,10 +41,10 @@
 ### DevOps & Cloud Tools
 - **CI/CD**: Jenkins, GitHub Actions
 - **Containerization**: Docker, Kubernetes (Minikube, AWS EKS)
-- **Automation**: Ansible,Terraform
+- **Automation**: Ansible,Terraform , Cloud Formation
 - **Cloud Platforms**: AWS (EC2, S3, IAM)
 - **Monitoring**: Grafana, Prometheus
-- **Scripting**: Bash, Shell Scripting, Python basics
+- **Scripting**: Shell Scripting, Python basics
 
 ---
 
@@ -68,19 +68,24 @@
 
 - **Red Hat Certified System Administrator (RHCSA)** – Aug 2024
 - **Red Hat Certified Specialist in Containers (DO188)** – Nov 2024
-- **Certified Kubernetes Administrator** – *In Progress*
+- **Red Hat Certified Engineer (RHCE)** – Feb 2025
+- **Red Hat Certified Openshift Administrator (DO280)** – In progress
 
 ---
-##   🏆 Training:
-- **Linux Training**: Completed comprehensive training in Linux administration, covering essential skills such as scripting, user management, and system monitoring.
-- **AWS Training**: Completed training focused on Amazon Web Services, including key services like EC2, S3, and IAM, preparing for cloud deployment and management.
-- **Kubernetes Training**: Completed training in Kubernetes, emphasizing container orchestration, deployment strategies, and managing scalable applications in cloud environments.
+##   🏆 Internship:
+
+**6-Month Industrial Internship in Linux, Cloud, and Kubernetes**  
+- Gained hands-on experience in Linux system administration, including user management, networking, and troubleshooting.  
+- Worked on cloud infrastructure management, focusing on deploying and managing resources in cloud environments.  
+- Acquired skills in containerization and orchestration using Kubernetes for deploying, scaling, and managing applications.  
+- Involved in real-time projects to automate workflows and improve system efficiency.  
+- Strengthened technical expertise in DevOps practices, preparing for real-world IT infrastructure challenges.
 
 ---
 ## 💼 Experience
 
 **ITE Infotech Private Limited** (Jan 2024 – Present)  
-_Junior DevOps Engineer_  
+_DevOps Engineer_  
 - Designed and implemented CI/CD pipelines using Jenkins and Docker.
 - Automated deployment of microservices with Docker and Kubernetes.
 - Collaborated with development teams to integrate AWS cloud solutions.
