@@ -2,13 +2,13 @@
 <h1 align="center">Shweta Dawande</h1>
 
 <p align="center">
-  <em>DevOps Engineer | RHCSA Certified | RHCE Certified | DO188 Certified | DevOps Tools Enthusiast</em>
+  <em>DevOps Engineer | RHCSA Certified | RHCE Certified | DO188 Certified | DO288 Certified | DevOps Tools Enthusiast</em>
 </p>
 
 ---
 
 <p align="center">
-  👋 Hi, I'm <strong>Shweta Dawande</strong>, a passionate DevOps Engineer with hands-on experience in automating and optimizing development pipelines for faster, scalable deployments. Currently, I’m working at <strong>ITE Infotech Private Limited</strong> and also preparing to enhance my expertise in tools like <strong> Docker, Kubernetes, Jenkins, and Terraform for efficient DevOps workflows.</strong> 🚀
+  👋 Hi, I'm <strong>Shweta Dawande</strong>, a passionate DevOps Engineer with hands-on experience in automating and optimizing development pipelines for faster, scalable deployments. Currently, I’m working at <strong>ITE Infotech Private Limited</strong> and also preparing to enhance my expertise in tools like <strong> Docker, Kubernetes, Tekton ,OCP  and Terraform for efficient DevOps workflows.</strong> 🚀
 </p>
 
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="80" height="80"/> </a>
@@ -28,8 +28,8 @@
 <img align="right" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/16052453/img_hero_landing_roseta-min.gif" alt="coding" width="200">
 
 - 🌱 I’m currently learning **advanced DevOps tools like Ansible, Terraform, and Kubernetes**.
-🏅 I’m an RHCSA-certified, RHCE-certified, and Redhat Certified Specialist in Containers with expertise in Linux, shell scripting, and automation tools.
-- 💼 Open to **DevOps**, **Cloud**, and **Automation** projects.
+🏅 I’m an RHCSA-certified, RHCE-certified, and Red Hat Certified OpenShift Application Developer  with expertise in Linux, shell scripting, and automation tools.
+- 💼 Open to **DevOps**, **Cloud**, **OCP** and **Automation** projects.
 - ☕ Coffee lover and passionate about continuous learning and improvement.
 - 📍 Based in **Mandideep, Bhopal (M.P.)**.
 
@@ -39,12 +39,12 @@
 ## 🚀 Technical Skills
 
 ### DevOps & Cloud Tools
-- **CI/CD**: Jenkins, GitHub Actions
-- **Containerization**: Docker, Kubernetes (Minikube, AWS EKS)
+- **CI/CD**: Tekton
+- **Containerization**: Docker, Kubernetes (Minikube, AWS EKS) , Openshift
 - **Automation**: Ansible,Terraform , Cloud Formation
 - **Cloud Platforms**: AWS (EC2, S3, IAM)
 - **Monitoring**: Grafana, Prometheus
-- **Scripting**: Shell Scripting, Python basics
+
 
 ---
 
@@ -69,7 +69,7 @@
 - **Red Hat Certified System Administrator (RHCSA)** – Aug 2024
 - **Red Hat Certified Specialist in Containers (DO188)** – Nov 2024
 - **Red Hat Certified Engineer (RHCE)** – Feb 2025
-- **Red Hat Certified Openshift Administrator (DO280)** – In progress
+- **Red Hat Certified OpenShift Application Developer (DO288)** – July 2025
 
 ---
 ##   🏆 Internship:
