@@ -84,7 +84,7 @@
 ---
 ## 💼 Experience
 
-**ITE Infotech Private Limited** (Jan 2024 – Present)  
+**ITE Infotech Private Limited** (Jan 2023 – Present)  
 _DevOps Engineer_  
 - Designed and implemented CI/CD pipelines using Jenkins and Docker.
 - Automated deployment of microservices with Docker and Kubernetes.
