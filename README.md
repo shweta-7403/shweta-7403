@@ -2,7 +2,7 @@
 <h1 align="center">Shweta Dawande</h1>
 
 <p align="center">
-  <em>DevOps Engineer | RHCSA Certified | RHCE Certified | DO188 Certified | DO288 Certified | DevOps Tools Enthusiast</em>
+  <em>DevOps Engineer | RHCSA Certified | RHCE Certified | DO188 Certified | DO288 Certified | DO280 Certified | DevOps Tools Enthusiast</em>
 </p>
 
 ---
@@ -70,6 +70,7 @@
 - **Red Hat Certified Specialist in Containers (DO188)** – Nov 2024
 - **Red Hat Certified Engineer (RHCE)** – Feb 2025
 - **Red Hat Certified OpenShift Application Developer (DO288)** – July 2025
+- **Red Hat Certified OpenShift Administrator (DO280)** - Aug 2025
 
 ---
 ##   🏆 Internship:
