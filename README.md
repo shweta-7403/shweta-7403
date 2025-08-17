@@ -3,7 +3,11 @@
 ---
 
 ## 🌟 About Me  
-💡 Hi, I'm **Shweta Dawande** — a DevOps & OCP Engineer passionate about **automation, scalability, and cloud-native workflows**.  
+💡 Hi, I'm **Shweta Dawande** — DevOps Engineer with 2 years of hands-on experience in IT domain, skilled in managing CI/CD pipelines, automating
+infrastructure with Terraform & Ansible, and deploying containerized applications using Kubernetes. Proficient in Linux system
+administration, AWS cloud services, and seeking to deepen expertise in Red Hat OpenShift (OCP) and Tekton-based CI/CD
+workflows. Passionate about DevOps culture, container orchestration, and mastering production-grade cloud-native platforms.
+
 🔭 Currently working at **ITE Infotech Pvt. Ltd.**  
 ⚡ Motto: *Automate Everything → Scale Everywhere!*  
 
