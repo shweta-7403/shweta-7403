@@ -49,7 +49,7 @@ culture.
 ---
 ## 📫 Connect with Me
 - 📧 Email: shwetadawande946@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/shwetadawande7403)  
+- 🔗 [LinkedIn](https://linkedin.com/in/shwetadawande)  
 - 💻 [GitHub](https://github.com/shweta-7403)  
 - 📄 Resume available on request
 ---
