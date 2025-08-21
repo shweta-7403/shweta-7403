@@ -3,12 +3,12 @@
 ---
 
 ## 🌟 About Me  
-💡 Hi, I'm **Shweta Dawande** — OpenShift Engineer with 2+ years of experience in deploying, managing, and troubleshooting Red
-Hat OpenShift clusters. Skilled in Kubernetes, CI/CD pipelines (Tekton), and automation with
-Ansible & Terraform. Proficient in OpenShift cluster administration, user & project management,
-Operators, logging/monitoring, and security best practices. Passionate about container
-orchestration, mastering production-grade OpenShift environments, and implementing DevOps
-culture.
+💡 Hi, I'm **Shweta Dawande** — Cloud & DevOps Engineer with 2+ years of experience in designing and implementing enterprise-grade container plat-
+forms using Kubernetes and Red Hat OpenShift. Skilled in cloud-native architecture, infrastructure automation (Ter-
+raform, Ansible), and CI/CD pipelines (Tekton, Jenkins, ArgoCD, GitLab CI/CD). Hands-on expertise in AWS cloud ser-
+vices (EC2, S3, IAM, VPC, RDS, EKS), monitoring & logging solutions (Prometheus, Grafana, EFK), and container security
+(RBAC, CIS compliance, image scanning). Certified in Red Hat OpenShift (DO280, DO288), Containers (DO188), RHCSA,
+and RHCE with proven ability to drive secure and scalable DevOps adoption in enterprises.
 
 🔭 Currently working at **ITE Infotech Pvt. Ltd.**  
 ⚡ Motto: *Automate Everything → Scale Everywhere!*  
