@@ -25,7 +25,9 @@ and RHCE with proven ability to drive secure and scalable DevOps adoption in ent
 
 
 ---
+
 ## 📂 Projects
+
 - **OpenShift Cluster Administration & Automation**
   - Deployed microservices using DeploymentConfigs, StatefulSets, Operators.
   - Automated provisioning (Projects, RBAC, Routes) with **Ansible & Terraform**.
@@ -39,6 +41,13 @@ and RHCE with proven ability to drive secure and scalable DevOps adoption in ent
 - **Infrastructure Automation with Terraform**
   - Developed reusable **Terraform modules** for AWS (EC2, S3, VPCs).
   - Improved infrastructure provisioning with automated scripts.
+
+- **Secure GitOps Implementation with ArgoCD & OpenShift**
+  - Configured **ArgoCD Operator** and custom **RBAC** for restricted access.
+  - Deployed applications through **GitOps workflows** ensuring consistency.
+  - Managed configurations via **ConfigMaps & Application CRDs**.
+  - Enhanced security by following **least-privilege model** and namespace isolation.
+
 
 ---
 
