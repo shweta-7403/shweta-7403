@@ -18,8 +18,11 @@ and RHCE with proven ability to drive secure and scalable DevOps adoption in ent
 ## 🛠 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,openshift,jenkins,ansible,terraform,aws,git,grafana,prometheus&perline=6" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,openshift" />
+  <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" width="48" height="48" alt="ArgoCD" />
+  <img src="https://skillicons.dev/icons?i=jenkins,ansible,terraform,aws,git,grafana,prometheus&perline=6" />
 </p>
+
 
 ---
 ## 📂 Projects
